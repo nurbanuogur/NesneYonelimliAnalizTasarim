@@ -1,6 +1,7 @@
 
 # Laboratuvar Uygulaması
 
+https://github.com/nurbanuogur/NesneYonelimliAnalizTasarim/blob/master/Diyagramlar/Uygulama2.png
 
 ```console
 
