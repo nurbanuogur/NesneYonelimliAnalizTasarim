@@ -8,4 +8,4 @@
 
 ![](https://github.com/nurbanuogur/NesneYonelimliAnalizTasarim/blob/master/Diyagramlar/Uygulama3.png)
 
-Bu ders kapsamında oluşturulan YaziciSurucu modülünü kullanarak bu işlemin farklı farklı yazıcılar tarafından gerçekleştirilmesini sağlayınız.
+* Bu ders kapsamında oluşturulan YaziciSurucu modülünü kullanarak bu işlemin farklı farklı yazıcılar tarafından gerçekleştirilmesini sağlayınız.
