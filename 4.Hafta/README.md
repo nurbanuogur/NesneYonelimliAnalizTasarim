@@ -1,9 +1,6 @@
 
 ## İstenenler:
 
-
-* Aşağıdaki sınıf şemasında yer alan diğer yazıcı türlerini de gerçekleyerek uygulama içerisinde kullanınız.
-
 ![](https://github.com/nurbanuogur/NesneYonelimliAnalizTasarim/blob/master/Diyagramlar/Uygulama4.png)
 
 * Kisi ve Adres sınıfları içerisine tamsayı tipli id üyeleri ekleyiniz.
