@@ -3,11 +3,11 @@
 
 ![](https://github.com/nurbanuogur/NesneYonelimliAnalizTasarim/blob/master/Diyagramlar/Uygulama4.png)
 
-* Kisi ve Adres sınıfları içerisine tamsayı tipli id üyeleri ekleyiniz.
-* Bu sınıfların yapıcı ve toString yöntemlerini, id değerlerini göz önüne alacak şekilde değiştiriniz.
-* Uygulama sınıfının main yöntemi içerisinde aşağıda belirtilen işlemleri yapınız:
- 	* “Kisi” verilerini saklayacak dinamik dizi oluşturunuz.
- 	* 100 tekrarlı bir döngü oluşturunuz (1-100).
+* Kisi ve Adres sınıfları içerisine tamsayı tipli id üyeleri eklenmelidir.
+* Bu sınıfların yapıcı ve toString yöntemlerini, id değerlerini göz önüne alacak şekilde değiştirilmelidir.
+* Uygulama sınıfının main yöntemi içerisinde aşağıda belirtilen işlemleri yapılmalı:
+ 	* “Kisi” verilerini saklayacak dinamik dizi oluşturulmalıdır.
+ 	* 100 tekrarlı bir döngü oluşturulmalı (1-100).
  	* Tekrarlı yapı içerisinde:
  		* ev adresi nesnesi oluşturunuz (bu nesnenin id değeri döngü değişkeninden, adresSatiri değeri “RastgeleUretmeAraci.rastgeleKelimeUret(5)” yönteminden alınmalıdır, il bilgisi olarak “Doğduğunuz İl” atanmalıdır).
  		* Döngü değişkeninin tek değerleri için:
