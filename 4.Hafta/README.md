@@ -19,12 +19,21 @@
  			
  	* Dinamik dizideki nesnelere döngü ile erişiniz ve tüm nesneleri aşağıdaki çıktıyı verecek şekilde yazdırınız. Çıktı için nesnelerin toString() yöntemlerinde gereken düzenlemeleri yapılmalıdır.
  	
+ 	
+ 	
+ 	
+### Prerequisites
+```
 	Personel-->1,voige,Doğduğunuzİl,yhtfk
 	Müşteri-->2,qblym,Doğduğunuzİl,lytgb,Sakarya
 	Personel-->3,wqpja,Doğduğunuzİl,vgflm
 	Müşteri-->4,wwnkk,Doğduğunuzİl,hixtp,Sakarya
 	Personel-->5,mrjce,Doğduğunuzİl,owcxg
 	Müşteri-->6,rrbbf,Doğduğunuzİl,egsgq,Sakarya
+```
+
+
+	
 
  	
  	
