@@ -22,7 +22,7 @@
  	
  	
  	
-### Prerequisites
+### Ekran Çıktısı
 ```
 	Personel-->1,voige,Doğduğunuzİl,yhtfk
 	Müşteri-->2,qblym,Doğduğunuzİl,lytgb,Sakarya
