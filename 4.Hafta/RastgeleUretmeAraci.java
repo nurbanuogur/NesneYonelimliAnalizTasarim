@@ -1,4 +1,4 @@
-package nb.ders5.lab;
+package ders4.lab;
 
 import java.util.Random;
 
