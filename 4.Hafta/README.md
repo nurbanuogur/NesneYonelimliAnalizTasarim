@@ -12,12 +12,12 @@
  		* ev adresi nesnesi oluşturunuz (bu nesnenin id değeri döngü değişkeninden, adresSatiri değeri “RastgeleUretmeAraci.rastgeleKelimeUret(5)” yönteminden alınmalıdır, il bilgisi olarak “Doğduğunuz İl” atanmalıdır).
  		* Döngü değişkeninin tek değerleri için:
  			* ev adresine benzer şekilde iş adresi oluşturulmalı.
- 			* Yeni müşteri oluşturulmalı (bu nesnenin id değeri döngü değişkeninden, ….)
+ 			* Yeni müşteri oluşturulmalı 
  			* Müşteri nesnesi dinamik dizi içerisine eklenmelidir.
  		* Döngü değişkeninin çift değerleri için:
- 			* Personel nesnesi oluşturulmalı (bu nesnenin id değeri döngü değişkeninden, ….) ve dinamik dizi içerisine eklenmelidir.
+ 			* Personel nesnesi oluşturulmalı ve dinamik dizi içerisine eklenmelidir.
  			
- 	* Dinamik dizideki nesnelere döngü ile erişiniz ve tüm nesneleri aşağıdaki çıktıyı verecek şekilde yazdırınız. Çıktı için nesnelerin toString() yöntemlerinde gereken düzenlemeleri yapılmalıdır.
+ 	* Dinamik dizideki nesnelere döngü ile erişiniz ve tüm nesneleri aşağıdaki çıktıyı verecek şekilde yazdırınız. Çıktı için nesnelerin toString() yöntemlerinde gereken düzenlemeler yapılmalıdır.
  	
  	
  	
