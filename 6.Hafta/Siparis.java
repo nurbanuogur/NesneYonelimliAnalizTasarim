@@ -1,4 +1,4 @@
-package cc.ders6.siparis;
+package nb.ders6;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

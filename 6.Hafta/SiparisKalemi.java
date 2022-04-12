@@ -1,4 +1,4 @@
-package cc.ders6.siparis;
+package nb.ders6;
 
 public class SiparisKalemi {
     private Urun urun;

@@ -1,4 +1,4 @@
-package cc.ders5;
+package nb.ders6;
 
 public abstract class Kisi {
 
