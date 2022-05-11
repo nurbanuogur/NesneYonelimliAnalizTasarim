@@ -1,5 +1,4 @@
 package nb.ders8;
-
 class Sayfa{
     private int sayfaNumarasi;
     private String icerik;

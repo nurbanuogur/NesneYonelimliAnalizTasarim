@@ -1,5 +1,4 @@
 package nb.ders8;
-
 public class Yazar {
     private String adi;
     private String soyadi;

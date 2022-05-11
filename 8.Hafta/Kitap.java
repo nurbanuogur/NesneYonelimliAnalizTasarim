@@ -1,7 +1,5 @@
 package nb.ders8;
-
 import java.util.ArrayList;
-
 public class Kitap {
     private String baslik;
     private int toplamSayfaSayisi;
@@ -11,7 +9,7 @@ public class Kitap {
     public Kitap(String baslik) {
         this.baslik = baslik;
         this.toplamSayfaSayisi = 0;
-        this.yazarlar =new ArrayList<Yazar>();
+        this.yazarlar = new ArrayList<Yazar>();
         this.sayfalar=new ArrayList<Sayfa>();
     }
 
@@ -21,6 +19,10 @@ public class Kitap {
 
     public void setBaslik(String baslik) {
         this.baslik = baslik;
+    }
+
+    public ArrayList<Yazar> getYazarlar() {
+        return yazarlar;
     }
 
     public int getToplamSayfaSayisi() {
